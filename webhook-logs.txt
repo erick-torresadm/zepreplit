@@ -1,0 +1,239 @@
+[2025-04-09T14:41:20.862Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:42:22.991Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:42:24.940Z] Webhook recebido: {
+  "instance": {
+    "instanceName": "teste1"
+  },
+  "key": {
+    "remoteJid": "5511999999999@s.whatsapp.net",
+    "fromMe": false,
+    "id": "test-1744209744911"
+  },
+  "message": {
+    "conversation": "chat"
+  },
+  "messageTimestamp": 1744209744,
+  "status": "received",
+  "type": "text"
+}
+[2025-04-09T14:42:24.940Z] Mensagem processada:
+      - Instância: [object Object]
+      - De: 5511999999999
+      - Conteúdo: "chat"
+    
+[2025-04-09T14:42:24.954Z] Erro ao enviar para o processador: connect ECONNREFUSED 127.0.0.1:3000
+[2025-04-09T14:44:15.123Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:44:18.085Z] Webhook recebido: {
+  "instance": {
+    "instanceName": "teste1"
+  },
+  "key": {
+    "remoteJid": "5511999999999@s.whatsapp.net",
+    "fromMe": false,
+    "id": "test-1744209858056"
+  },
+  "message": {
+    "conversation": "chat"
+  },
+  "messageTimestamp": 1744209858,
+  "status": "received",
+  "type": "text"
+}
+[2025-04-09T14:44:18.085Z] Mensagem processada:
+      - Instância: [object Object]
+      - De: 5511999999999
+      - Conteúdo: "chat"
+    
+[2025-04-09T14:44:18.192Z] Erro ao enviar para o processador: Hostname/IP does not match certificate's altnames: Host: 5173-erickfandim-saaswhatsapp-h5l8vbwbm4l.ws-us107.gitpod.io. is not in the cert's altnames: DNS:gitpod.io
+[2025-04-09T14:44:46.210Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:44:48.184Z] Webhook recebido: {
+  "instance": {
+    "instanceName": "teste1"
+  },
+  "key": {
+    "remoteJid": "5511999999999@s.whatsapp.net",
+    "fromMe": false,
+    "id": "test-1744209888148"
+  },
+  "message": {
+    "conversation": "chat"
+  },
+  "messageTimestamp": 1744209888,
+  "status": "received",
+  "type": "text"
+}
+[2025-04-09T14:44:48.184Z] Mensagem processada:
+      - Instância: [object Object]
+      - De: 5511999999999
+      - Conteúdo: "chat"
+    
+[2025-04-09T14:44:48.200Z] Erro ao enviar para o processador: connect ECONNREFUSED 127.0.0.1:5173
+[2025-04-09T14:45:05.796Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:45:07.742Z] Webhook recebido: {
+  "instance": {
+    "instanceName": "teste1"
+  },
+  "key": {
+    "remoteJid": "5511999999999@s.whatsapp.net",
+    "fromMe": false,
+    "id": "test-1744209907713"
+  },
+  "message": {
+    "conversation": "chat"
+  },
+  "messageTimestamp": 1744209907,
+  "status": "received",
+  "type": "text"
+}
+[2025-04-09T14:45:07.742Z] Mensagem processada:
+      - Instância: [object Object]
+      - De: 5511999999999
+      - Conteúdo: "chat"
+    
+[2025-04-09T14:45:07.774Z] Erro ao enviar para o processador: getaddrinfo ENOTFOUND workspace.ericktorresadm.repl.co
+[2025-04-09T14:46:45.884Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:46:47.877Z] Webhook recebido: {
+  "instance": {
+    "instanceName": "teste1"
+  },
+  "key": {
+    "remoteJid": "5511999999999@s.whatsapp.net",
+    "fromMe": false,
+    "id": "test-1744210007849"
+  },
+  "message": {
+    "conversation": "chat"
+  },
+  "messageTimestamp": 1744210007,
+  "status": "received",
+  "type": "text"
+}
+[2025-04-09T14:46:47.877Z] Mensagem processada:
+      - Instância: [object Object]
+      - De: 5511999999999
+      - Conteúdo: "chat"
+    
+[2025-04-09T14:46:47.963Z] Erro ao enviar para o processador: 404: {"success":false,"message":"Instância não encontrada: [object Object]"}
+[2025-04-09T14:47:01.706Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:47:03.682Z] Webhook recebido: {
+  "instance": {
+    "instanceName": "teste1"
+  },
+  "key": {
+    "remoteJid": "5511999999999@s.whatsapp.net",
+    "fromMe": false,
+    "id": "test-1744210023653"
+  },
+  "message": {
+    "conversation": "chat"
+  },
+  "messageTimestamp": 1744210023,
+  "status": "received",
+  "type": "text"
+}
+[2025-04-09T14:47:03.682Z] Mensagem processada:
+      - Instância: [object Object]
+      - De: 5511999999999
+      - Conteúdo: "chat"
+    
+[2025-04-09T14:47:03.765Z] Erro ao enviar para o processador: 404: {"success":false,"message":"Instância não encontrada: [object Object]"}
+[2025-04-09T14:47:20.569Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:47:22.565Z] Webhook recebido: {
+  "instance": {
+    "instanceName": "teste1"
+  },
+  "key": {
+    "remoteJid": "5511999999999@s.whatsapp.net",
+    "fromMe": false,
+    "id": "test-1744210042532"
+  },
+  "message": {
+    "conversation": "chat"
+  },
+  "messageTimestamp": 1744210042,
+  "status": "received",
+  "type": "text"
+}
+[2025-04-09T14:47:22.565Z] Instância detectada: teste1 (tipo: string)
+[2025-04-09T14:47:22.565Z] Mensagem processada:
+      - Instância: teste1
+      - De: 5511999999999
+      - Conteúdo: "chat"
+    
+[2025-04-09T14:47:23.668Z] Resposta do processador: {"success":true,"message":"Mensagem processada com sucesso","results":{"directProcessorTriggered":true,"flowProcessorTriggered":true,"instanceId":"a4e7ae2b-46ab-4542-8fee-88c66f19b029","processed":true}}
+[2025-04-09T14:53:57.345Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:53:59.317Z] Webhook recebido: {
+  "instance": {
+    "instanceName": "teste1"
+  },
+  "key": {
+    "remoteJid": "5511999999999@s.whatsapp.net",
+    "fromMe": false,
+    "id": "test-1744210439289"
+  },
+  "message": {
+    "conversation": "chat"
+  },
+  "messageTimestamp": 1744210439,
+  "status": "received",
+  "type": "text"
+}
+[2025-04-09T14:53:59.317Z] Instância detectada: teste1 (tipo: string)
+[2025-04-09T14:53:59.317Z] Mensagem processada:
+      - Instância: teste1
+      - De: 5511999999999
+      - Conteúdo: "chat"
+    
+[2025-04-09T14:54:00.215Z] Resposta do processador: {"success":true,"message":"Mensagem processada com sucesso","results":{"directProcessorTriggered":true,"flowProcessorTriggered":true,"instanceId":"a4e7ae2b-46ab-4542-8fee-88c66f19b029","processed":true}}
+[2025-04-09T14:55:48.676Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:55:51.638Z] Webhook recebido: {
+  "instance": {
+    "instanceName": "teste1"
+  },
+  "key": {
+    "remoteJid": "5511999999999@s.whatsapp.net",
+    "fromMe": false,
+    "id": "test-1744210551602"
+  },
+  "message": {
+    "conversation": "chat"
+  },
+  "messageTimestamp": 1744210551,
+  "status": "received",
+  "type": "text"
+}
+[2025-04-09T14:55:51.638Z] Instância detectada: teste1 (tipo: string)
+[2025-04-09T14:55:51.638Z] Mensagem processada:
+      - Instância: teste1
+      - De: 5511999999999
+      - Conteúdo: "chat"
+    
+[2025-04-09T14:55:52.544Z] Resposta do processador: {"success":true,"message":"Mensagem processada com sucesso","results":{"directProcessorTriggered":true,"flowProcessorTriggered":true,"instanceId":"a4e7ae2b-46ab-4542-8fee-88c66f19b029","processed":true}}
+[2025-04-09T14:56:29.020Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T14:56:31.958Z] Instância detectada: teste1 (tipo: string)
+[2025-04-09T14:56:31.958Z] Webhook recebido: {
+  "instance": {
+    "instanceName": "teste1"
+  },
+  "key": {
+    "remoteJid": "5511999999999@s.whatsapp.net",
+    "fromMe": false,
+    "id": "test-1744210591928"
+  },
+  "message": {
+    "conversation": "chat"
+  },
+  "messageTimestamp": 1744210591,
+  "status": "received",
+  "type": "text"
+}
+[2025-04-09T14:56:31.958Z] Mensagem processada:
+      - Instância: teste1
+      - De: 5511999999999
+      - Conteúdo: "chat"
+    
+[2025-04-09T14:56:32.845Z] Resposta do processador: {"success":true,"message":"Mensagem processada com sucesso","results":{"directProcessorTriggered":true,"flowProcessorTriggered":true,"instanceId":"a4e7ae2b-46ab-4542-8fee-88c66f19b029","processed":true}}
+[2025-04-09T15:04:51.363Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T15:05:57.782Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T15:06:51.235Z] Servidor de webhook iniciado na porta 3001
+[2025-04-09T16:08:23.269Z] Servidor de webhook iniciado na porta 3001
